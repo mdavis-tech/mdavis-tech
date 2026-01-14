@@ -1,16 +1,25 @@
-# Hi 👋, I'm Misti Davis
+# Hi, I'm Misti 👋
 
-### I'm a new enthusiast to the tech world. I am interested in exploring the various aspects of what technology has to offer and how it is growing. I might be new to the world, but I have a love of learning and am open to the possibilities it offers.
+## About Me
+I am currently taking CSC-113 AI Fundamentals and learning to collaborate with AI tools!
 
-- 🌱 I'm currently learning **AI Fundamentals (CSC-113) which I am excited about, this is something completely new to me. **
+## My Foo 🎯
+🎧 🎶 Music has always been a _**big**_ part of my life. When I was two years old, the only way my Mom could get me to go to sleep was to play Bob Seger's _Old Time Rock and Roll_ over and over again. She had to record it on a cassette tape (on both sides) and let it continously play. Fast forward (ahem) quite a few years later, and music is still something that I am **_extremely_** passionate about. I truly like music across pretty much all genres (although I do not like EVERY song in every genre). Some of my favorites though (in no particular order) are: Fleetwood Mac, Red Hot Chili Peppers, Ren, Taylor Swift, Reba McIntire, Garth Brooks, Eminem, Linkin Park, Nightwish, and pretty much most musicals. 🎶 🎧
 
-- 🎧 Listening to **music** is my _passion_. I can do without most things, but listening to music is not one of them. I have been a music lover since I was two. Music is on in my house at least 75% of the time.
+## Currently Learning
+- 🤖 AI collaboration and prompt engineering
+- 🐙 GitHub workflows and version control
+- 💡 Building my first AI assistants
+  
 
-- 📫 How to reach me: **https://github.com/mdavis-tech**
+## Fun Fact
+🏥 I was so accident prone growing up that I was on a first named basis with the people in the emergency room. They literally kept my file up at the triage desk.
 
-- ⚡ Fun fact: **In high school, my singing voice range went from tenor to soprano (1st tenor, 2nd alto, 1st alto, 2nd soprano, 1st soprano), which was helpful filling in at choir performances.**
+🎶 In high school, my vocal range spanned so far that I was able to fill in for any needed position with the expection of the bass section. The choir director _loved_ having me in the choir. 🎶
 
-- 👨‍💻 All of my projects are available at **[https://github.com/mdavis-tech](https://github.com/mdavis-tech)**
+
+## Find Me
+- 📫 Right here on GitHub!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
