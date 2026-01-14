@@ -26,3 +26,4 @@ I am currently taking CSC-113 AI Fundamentals and learning to collaborate with A
 <a href="https://github.com/mdavis-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mdavis-tech" height="30" width="40" /></a>
 </p>
 
+git commit -m "Add initial profile with personality"
