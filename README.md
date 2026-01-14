@@ -1,10 +1,10 @@
 # Hi 👋, I'm Misti Davis
 
-### I'm a new enthusiast to the tech world. I am interested in exploring the various aspects of what technology has to offer and how it is growing.
+### I'm a new enthusiast to the tech world. I am interested in exploring the various aspects of what technology has to offer and how it is growing. I might be new to the world, but I have a love of learning and am open to the possibilities it offers.
 
 - 🌱 I'm currently learning **AI Fundamentals (CSC-113) which I am excited about, this is something completely new to me. **
 
-- 🎧 Listening to music is my passion. I can do without most things, but listening to music is not one of them. I have been a music lover since I was two. Music is on in my house at least 75% of the time.
+- 🎧 Listening to **music** is my _passion_. I can do without most things, but listening to music is not one of them. I have been a music lover since I was two. Music is on in my house at least 75% of the time.
 
 - 📫 How to reach me: **https://github.com/mdavis-tech**
 
