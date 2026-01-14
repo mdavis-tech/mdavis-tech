@@ -12,7 +12,7 @@ I am currently taking CSC-113 AI Fundamentals and learning to collaborate with A
 - 💡 Building my first AI assistants
   
 
-## Fun Fact
+## Fun Facts
 🏥 I was so accident prone growing up that I was on a first named basis with the people in the emergency room. They literally kept my file up at the triage desk.
 
 🎶 In high school, my vocal range spanned so far that I was able to fill in for any needed position with the expection of the bass section. The choir director _loved_ having me in the choir. 🎶
