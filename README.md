@@ -6,9 +6,9 @@
 
 - 🎧 Listening to music is my passion. I can do without most things, but listening to music is not one of them. I have been a music lover since I was two. Music is on in my house at least 75% of the time.
 
-- 📫 How to reach me **https://github.com/mdavis-tech**
+- 📫 How to reach me: **https://github.com/mdavis-tech**
 
-- ⚡ Fun fact **In high school, my singing voice range went from tenor to soprano (1st tenor, 2nd alto, 1st alto, 2nd soprano, 1st soprano), which was helpful filling in at choir performances.**
+- ⚡ Fun fact: **In high school, my singing voice range went from tenor to soprano (1st tenor, 2nd alto, 1st alto, 2nd soprano, 1st soprano), which was helpful filling in at choir performances.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/mdavis-tech](https://github.com/mdavis-tech)**
 
