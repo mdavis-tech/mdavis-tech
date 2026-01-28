@@ -1,16 +1,16 @@
 # Hi, I'm Misti 👋
 
 ## About Me
-I am currently taking CSC-113 AI Fundamentals and learning to collaborate with AI tools!
-I am also taking CTI-110 (Web, Program, and Database Foundation) to learn various aspects of information technology.
+I am taking CTI-110 (Web, Program, and Database Foundation) to learn various aspects of information technology.
+I am also taking a Linux class.
 
 ## My Foo 🎯
 🎧 🎶 Music has always been a _**big**_ part of my life. When I was two years old, the only way my Mom could get me to go to sleep was to play Bob Seger's _Old Time Rock and Roll_ over and over again. She had to record it on a cassette tape (on both sides) and let it continously play. Fast forward (ahem) quite a few years later, and music is still something that I am **_extremely_** passionate about. I truly like music across pretty much all genres (although I do not like EVERY song in every genre). Some of my favorites though (in no particular order) are: Fleetwood Mac, Red Hot Chili Peppers, Ren, Taylor Swift, Reba McIntire, Garth Brooks, Eminem, Linkin Park, Nightwish, and pretty much most musicals. 🎶 🎧
 
 ## Currently Learning
-- 🤖 AI collaboration and prompt engineering
-- 🐙 GitHub workflows and version control
-- 💡 Building my first AI assistants
+-HTML
+-Linux
+-Database Analysis
   
 
 ## Fun Facts
@@ -31,4 +31,4 @@ I am also taking CTI-110 (Web, Program, and Database Foundation) to learn variou
 
 
 
-"Add initial profile with personality"
+
